@@ -29,6 +29,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalgowda8660&show_icons=true&locale=en" alt="prajwalgowda8660" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalgowda8660&" alt="prajwalgowda8660" /></p>
