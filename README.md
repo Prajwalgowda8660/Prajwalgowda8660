@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalgowda8660&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalgowda8660" /> </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/prajwalgowdahg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajwal Gowda-blue)](https://www.linkedin.com/in/prajwalgowdahg/)
 [![Email](https://img.shields.io/badge/Email-prajwalgowdagowda65%40gmail.com-blue)](mailto:prajwalgowdagowda65@gmail.com)
 
 ## Skills
