@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/95043299?v=4" alt="Prajwal Gowda H G" width="200" style="border-radius:50%;" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Prajwal Gowda H G</h1>
 <h3 align="center">Passionate Software Developer | Java Developer</h3>
 
