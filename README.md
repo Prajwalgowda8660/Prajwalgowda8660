@@ -1,74 +1,48 @@
-<h1 align="center">Hi 👋, I'm Prajwal Gowda H G</h1>
-<h3 align="center">Software Developer | Frontend Enthusiast | RPA & Data Science Learner</h3>
+<h1 align="center"> Hi 👋, I'm Prajwal Gowda H G</h1>
+<h3 align="center">Passionate Software Developer | Java Developer from India</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prajwalgowdahg/">
-    <img src="https://img.shields.io/badge/LinkedIn-PrajwalGowda-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:prajwalgowdagowda65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prajwalgowdagowda65%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Prajwalgowda8660">
-    <img src="https://img.shields.io/badge/GitHub-Prajwal--Gowda-black?style=for-the-badge&logo=github" />
-  </a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=prajwalgowda8660&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalgowda8660" /> 
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrajwalGowda-blue)](https://www.linkedin.com/in/prajwalgowdahg/)
+[![Email](https://img.shields.io/badge/Email-prajwalgowdagowda65%40gmail.com-blue)](mailto:prajwalgowdagowda65@gmail.com)
 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year Information Science & Engineering student  
-- 💻 Passionate about **Frontend Development, RPA, and Data Science**  
-- 🧩 Interested in **Software Architecture, Design Patterns & Game Development**  
-- 🌱 Currently learning **C#, Unity & Cloud Computing**  
-- 📄 Know more about my projects in my [Resume](#)  
+## 👨‍💻 About Me
+
+- 🎓 I have **recently completed my graduation** in Information Science and Engineering.  
+- 💻 I am passionate about **Software Development** and **Java Development**.  
+- 🚀 I enjoy learning and working with **modern technologies** to build efficient solutions.  
+- 📄 You can check my **resume here**: [My Resume](YOUR_RESUME_LINK_HERE)  
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Programming & Development
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Frameworks / Tools:**  
-![UiPath](https://img.shields.io/badge/UiPath-FF6F00?style=for-the-badge&logo=uipath&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-%23ED8B00.svg?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Operating Systems:**  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Tools & Platforms
+![UiPath](https://img.shields.io/badge/Uipath-%2320232a.svg?style=for-the-badge&logo=UiPath&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=Figma)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-## 📌 Projects
-
-- 🌱 **AI Plant Disease Tracker** – Built an ML-powered tool to detect plant diseases from images.  
-- 🌫️ **Defogging Images using Dark Channel Prior** – Image enhancement using ML in Python.  
-- 🎮 **Tic Tac Toe & Platformer Game in Unity** – Implemented UI separation, bot mode & MVC pattern.  
-- 🏫 **College Management System** – Full-stack project with database integration.  
-
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalgowda8660&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalgowda8660&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prajwalgowda8660&show_icons=true&theme=radical&count_private=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prajwalgowda8660&theme=radical&hide_border=false)  
 
 ---
-
-## ✨ Fun Fact
-⚡ I enjoy building small games, exploring AI/ML applications, and automating tasks with RPA tools!  
-
