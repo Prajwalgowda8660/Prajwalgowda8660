@@ -2,51 +2,27 @@
 <h3 align="center">A passionate Software Developer and Java Developer from India</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/8660385369?v=4" alt="Profile Picture" width="200" style="border-radius:50%">
+  <img src="https://github.com/prajwalgowda8660/prajwalgowda8660/blob/main/cartoon-man-wearing-glasses.jpg?raw=true" width="300" />
 </p>
-
-<p align="left"> 
-<img src="https://github.com/prajwalgowda8660/prajwalgowda8660/blob/main/cartoon-man-wearing-glasses.jpg?raw=true" width="300" />
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrajwalGowda-blue)](https://www.linkedin.com/in/prajwalgowdahg/)
-[![Email](https://img.shields.io/badge/Email-prajwalgowdagowda65%40gmail.com-blue)](mailto:prajwalgowdagowda65@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-green)](https://drive.google.com/file/d/1QnpVTRQAcd469FtypjoBOo8VmCFt-zZk/view?usp=sharing)
 
 ---
 
-## 🛠️ Skills  
-
-- **Technical :**  
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-- **Software :**  
-
-![UiPath](https://img.shields.io/badge/Uipath-%2320232a.svg?style=for-the-badge&logo=UiPath&logoColor=white)
-![Robotics Process Automation](https://img.shields.io/badge/RPA-%23ED8B00.svg?style=for-the-badge&logo=RPA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=Figma)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 👨‍💻 About Me
+- 🎓 Recently graduated in **Information Science and Engineering**  
+- 💻 Passionate about **Software Development** and **Java Development**  
+- 🚀 Constantly exploring **RPA**, **Data Science**, and modern technologies  
+- 📫 Reach me at **prajwalgowdagowda65@gmail.com**
 
 ---
 
-## 💼 Internships  
-
-### 🎮 99Games – Unity Game Development Intern  
+### 🏢 Internships
+**99Games – Unity Game Development Intern**  
 - Developed interactive game features using Unity.  
 - Applied object-oriented programming principles to improve game structure and maintainability.  
 - Designed and implemented mini-games as part of the gameplay experience.  
 - Collaborated with the design team to enhance user interaction and visual effects.  
 
-### 🌐 GTTC – Internet of Things Intern  
+**GTTC – Internet of Things Intern**  
 - Worked on designing and implementing IoT systems integrating multiple sensors using TinkerCAD.  
 - Developed prototypes demonstrating sensor-based automation and data monitoring.  
 - Documented workflows and project outcomes to improve knowledge sharing within the team.  
@@ -54,27 +30,31 @@
 
 ---
 
-## 📂 Projects  
+### 🚀 Projects
+**AI Plant Disease Tracker (Jan 2025 – Apr 2025)**  
+- Built an AI-based system for detecting plant diseases from leaf images.  
+- Used **Machine Learning (CNNs)** for classification and early detection.  
+- Enhanced agricultural decision-making with accurate results.  
 
-### 🌱 AI Plant Disease Tracker  
-- Built a system to detect plant diseases using machine learning.  
-- Trained models with plant leaf datasets for accurate predictions.  
-- Helps farmers take early action to protect crops.  
+**Defogging Images using Dark Channel Prior (May 2024 – Jul 2024)**  
+- Implemented a machine learning model to improve image clarity in foggy conditions.  
+- Enhanced visibility using **Dark Channel Prior** and optimization algorithms.  
+- Tested on multiple datasets for robustness and accuracy.  
 
----
-
-### 🌫️ Defogging Images using Dark Channel Prior  
-- Implemented an image enhancement model to remove fog.  
-- Improved visibility in images using machine learning techniques.  
-- Useful for photography, surveillance, and computer vision tasks.  
-
----
-
-### 🏫 College Management System (Nov 2023 – Mar 2024)  
+**College Management System (Nov 2023 – Mar 2024)**  
 - Designed and implemented a centralized platform for academic and administrative management.  
 - Integrated MySQL for seamless data interaction between faculty and administration.  
 - Improved usability, accessibility, and data management efficiency for institutional operations.  
 
 ---
 
+### 📊 GitHub Stats
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalgowda8660&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwalgowda8660&theme=radical)
 
+---
+
+### 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/prajwalgowda8660) |  
+[Email](mailto:prajwalgowdagowda65@gmail.com) |  
+[Resume – Click Here](https://drive.google.com/file/d/1QnpVTRQAcd469FtypjoBOo8VmCFt-zZk/view?usp=sharing)
