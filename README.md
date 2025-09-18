@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=prajwalgowda8660&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalgowda8660" /> 
+<img src="https://github.com/prajwalgowda8660/prajwalgowda8660/blob/main/cartoon-man-wearing-glasses.jpg?raw=true" width="300" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PrajwalGowda-blue)](https://www.linkedin.com/in/prajwalgowdahg/)
