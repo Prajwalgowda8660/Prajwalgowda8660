@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PrajwalGowda-blue)](https://www.linkedin.com/in/prajwalgowdahg/)
 [![Email](https://img.shields.io/badge/Email-prajwalgowdagowda65%40gmail.com-blue)](mailto:prajwalgowdagowda65@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-green)](YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-green)](https://drive.google.com/file/d/1QnpVTRQAcd469FtypjoBOo8VmCFt-zZk/view?usp=sharing)
 
 ---
 
