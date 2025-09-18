@@ -56,7 +56,7 @@
 - 🎮 **Tic Tac Toe & Platformer Game in Unity** – Implemented UI separation, bot mode & MVC pattern.  
 - 🏫 **College Management System** – Full-stack project with database integration.  
 
-*(👉 You can pin these repos so recruiters see them first!)*  
+
 
 ---
 
