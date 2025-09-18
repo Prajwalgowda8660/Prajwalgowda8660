@@ -11,6 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PrajwalGowda-blue)](https://www.linkedin.com/in/prajwalgowdahg/)
 [![Email](https://img.shields.io/badge/Email-prajwalgowdagowda65%40gmail.com-blue)](mailto:prajwalgowdagowda65@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-green)](YOUR_RESUME_LINK_HERE)
 
 ---
 
@@ -69,10 +70,10 @@
 
 ---
 
-### 📸 Phytodetector (Research Paper: Plant Disease Identification using CNNs)  
-- Co-authored research paper on plant disease detection.  
-- Used Convolutional Neural Networks (CNNs) for classification.  
-- Achieved reliable results for early disease identification.  
+### 🏫 College Management System (Nov 2023 – Mar 2024)  
+- Designed and implemented a centralized platform for academic and administrative management.  
+- Integrated MySQL for seamless data interaction between faculty and administration.  
+- Improved usability, accessibility, and data management efficiency for institutional operations.  
 
 ---
 
