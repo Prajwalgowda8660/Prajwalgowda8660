@@ -20,7 +20,7 @@
 - 💻 Passionate about **Software Development and Java Development**  
 - 🧩 Interested in **Software Architecture, Design Patterns & Game Development**  
 - 🌱 Currently learning **C#, Unity & Cloud Computing**  
-- 📄 Know more about my work in my [Resume](YOUR_RESUME_LINK_HERE)  
+- 📄 Know more about my work in my [Resume](https://drive.google.com/file/d/1QnpVTRQAcd469FtypjoBOo8VmCFt-zZk/view?usp=sharing)  
 
 ---
 
