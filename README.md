@@ -50,7 +50,7 @@
 
 ### 📊 GitHub Stats
 ![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalgowda8660&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwalgowda8660&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=)
 
 ---
  
