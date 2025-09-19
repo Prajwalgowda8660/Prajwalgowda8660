@@ -53,7 +53,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwalgowda8660&theme=radical)
 
 ---
-
+ 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/prajwalgowda8660) |  
 [Email](mailto:prajwalgowdagowda65@gmail.com) |  
