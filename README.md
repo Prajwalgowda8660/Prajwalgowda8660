@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- * 💼 Currently working as a **Software Trainee Engineer** and **ready to join immediately**
+* 💼 Currently working as a **Software Trainee Engineer** and **ready to join immediately**
 * 💻 Passionate about **Software Development**, **Java Development**, and building scalable applications
 * 🚀 Hands-on experience with **Java, HTML, CSS, JavaScript, Node.js, SQL, Git**, **OOP**, **ER Diagrams**, **SDLC**, **Design-Driven Development**, and application deployment through an in-house **Expense Tracker** project
 * 📫 Reach me at **[prajwalgowdagowda65@gmail.com](mailto:prajwalgowdagowda65@gmail.com)**
