@@ -1,5 +1,5 @@
 <h1 align="center">Prajwal Gowda H G</h1>
-<h3 align="center">A passionate Software Developer and Game Developer  from India</h3>
+<h3 align="center">A passionate Software Developer </h3>
 
 <p align="center">
   <img src="https://github.com/prajwalgowda8660/prajwalgowda8660/blob/main/cartoon-man-wearing-glasses.jpg?raw=true" width="300" />
