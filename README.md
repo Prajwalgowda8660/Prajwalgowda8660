@@ -101,4 +101,3 @@
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/prajwalgowda8660
 - 📧 **Email:** prajwalgowdagowda65@gmail.com
-- 📄 **Resume:** https://drive.google.com/file/d/1QnpVTRQAcd469FtypjoBOo8VmCFt-zZk/view?usp=sharing
