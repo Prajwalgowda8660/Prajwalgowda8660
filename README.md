@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Software Trainee Engineer** and **ready to join immediately**
+- 💼 Currently working as a **Software Trainee Engineer**
 - 💻 Passionate about **Software Development**, **Java Development**, and **Backend Development**
 - 🚀 Hands-on experience in **Java, HTML, CSS, JavaScript, Node.js, SQL, Git, OOP, ER Diagram Design, SDLC, Design-Driven Development, REST APIs, and Application Deployment**
 - 🌱 Currently developing an in-house **Expense Tracker** application from scratch while gaining practical industry experience
